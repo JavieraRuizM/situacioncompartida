@@ -1,0 +1,59 @@
+/* importo tipografía Roboto */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+body {
+
+  background-color:whitesmoke;
+  font-family: 'Roboto', sans-serif;
+  font-size: 22px;
+  width: 80%;
+  max-width: 700px;
+  margin:50px 300px;
+
+  
+  
+}
+
+h1 {
+  font-size: 40px;
+  font-weight: normal;
+  color: rgb(212, 189, 238)
+  
+}
+
+p {
+  font-size: 20px;
+  font-weight: 200;
+}
+
+td {
+  font-size: 20px;
+  font-weight: 200;
+  padding: 0 20px;
+  text-align: justify;
+  vertical-align: top;
+  width: 50%;
+}
+
+td.first {
+  border-right: 5px rgb(212, 189, 238)  ;
+}
+
+
+h2 {
+  font-size: 40px;
+  font-weight: normal;
+  color: rgb(212, 189, 238)
+  
+}
+
+
+p2 {
+  font-size: 20px;
+  font-weight: 200;
+  padding: 0px;
+  text-align: center;
+  
+}
+
